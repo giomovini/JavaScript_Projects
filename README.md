@@ -4,6 +4,6 @@ This repository contains beginner JavaScript projects
 
 ## 1 - Color Flipper
 This project I use a Html, Css and Javascript to flip the colors in the page, cliking at the button.
-![image](https://github.com/giomovini/JavaScript_Projects/assets/63116407/9bb6dbe9-ef2e-4902-a1d0-48f340e3bde7)
+![color-flipper](https://github.com/giomovini/JavaScript_Projects/assets/63116407/0dd6bb29-ba14-4e4c-ac5b-e94b1ee16043)
 
 ## 2 - Counter
