@@ -2,6 +2,6 @@
 
 This repository contains beginner JavaScript projects
 
-## 1 - Color chagers
-This project I use a Html, Css and Javascript to change the colors in the page
+## 1 - Color Flipper
+This project I use a Html, Css and Javascript to flip the colors in the page, cliking at the button.
 
