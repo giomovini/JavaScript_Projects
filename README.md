@@ -7,3 +7,4 @@ This project I use a Html, Css and Javascript to flip the colors in the page, cl
 ![color-flipper](https://github.com/giomovini/JavaScript_Projects/assets/63116407/0dd6bb29-ba14-4e4c-ac5b-e94b1ee16043)
 
 ## 2 - Counter
+This project consists of a button that increases, decreases and resets the count when clicked on the buttons using basic concepts of Javascript.
